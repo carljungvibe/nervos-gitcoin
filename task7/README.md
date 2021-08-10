@@ -3,6 +3,8 @@
 ### 1- Screenshots or video of your application running on Godwoken
 
 <a href="https://vimeo.com/585408151"> PROJECT VIDEO <a/>
+ 
+ <img src="https://github.com/carljungvibe/nervos-gitcoin/blob/master/task7/nervos-ipfs.png" />
   
 ### 2- Link to the GitHub repository 
   
